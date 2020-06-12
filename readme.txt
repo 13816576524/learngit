@@ -8,3 +8,6 @@ git push
 
 git checkout -b sixth
 git push --set-upstream origin fifth
+
+git branch
+git status
