@@ -11,3 +11,5 @@ git push --set-upstream origin fifth
 
 git branch
 git status
+
+git config --global user.name "13816576524"
