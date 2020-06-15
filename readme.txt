@@ -1,4 +1,4 @@
-second
+test
 git clone https://github.com/13816576524/learngit.git
 git checkout second
 git pull
