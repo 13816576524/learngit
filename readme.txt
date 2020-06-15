@@ -32,13 +32,14 @@ git merge second
 git push -u origin master
 git push
 
-<<<<<<< HEAD
 git push origin -d test
 
 git branch -d test
 
-=======
 git remote -v
 
-git fetch
->>>>>>> d1bfa4d4d8bd64c88668b7f89461d6b07cab665c
+###fetch 'second' branch from the remote server to the local repository
+git fetch origin second		
+###merge file of the workspace with file of the repository
+git merge second
+
