@@ -15,3 +15,5 @@ git status
 git config --global user.name "13816576524"
 
 git config --global alias.checkin '!f(){ git add -A && git commit -m "$@" && git push; }; f'
+
+git reset --hard head~1
