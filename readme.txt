@@ -1,2 +1,2 @@
 second
-git checkout second
+git reset hard head~1
