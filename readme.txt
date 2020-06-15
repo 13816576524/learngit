@@ -1,6 +1,13 @@
 master
 ###远程操作
+###git clone 在本地复制远程仓库
 git clone https://github.com/13816576524/learngit.git
+
+###git remote 查看本地添加的远程仓库名称
+###git remote -v	查看本地添加的远程仓库名称和url
+###git remote show origin	在本地查看某个远程仓库的具体信息
+###git remote add hello https://github.com/13816576524/hello.git	在本地添加一个远程仓库名称和url
+###git rm hello		在本地删除一个远程仓库名称和url
 
 git clone https://github.com/13816576524/learngit.git
 git checkout second
