@@ -15,6 +15,9 @@ git clone https://github.com/13816576524/learngit.git
 ###git branch	查看分支
 ###git branch -a	查看所有分支的详情
 
+###git pull leanrgit master   将远程仓库分支拉到本地仓库分支，并把本地仓库分支的内容拉到本地工作区。
+
+
 git clone https://github.com/13816576524/learngit.git
 git checkout second
 git pull
