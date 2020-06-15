@@ -1,4 +1,4 @@
-master
+test
 git clone https://github.com/13816576524/learngit.git
 git checkout second
 git pull
@@ -18,6 +18,7 @@ git config --global alias.checkin '!f(){ git add -A && git commit -m "$@" && git
 
 git reset --hard head~1
 
+
 git restore .
 git restore --staged .
 
@@ -31,7 +32,13 @@ git merge second
 git push -u origin master
 git push
 
+<<<<<<< HEAD
 git push origin -d test
 
 git branch -d test
 
+=======
+git remote -v
+
+git fetch
+>>>>>>> d1bfa4d4d8bd64c88668b7f89461d6b07cab665c
