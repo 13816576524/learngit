@@ -32,3 +32,4 @@ git merge second
 git push -u origin master
 git push
 
+git remote -v
