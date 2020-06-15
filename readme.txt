@@ -10,6 +10,7 @@ git clone https://github.com/13816576524/learngit.git
 ###git rm hello		在本地删除一个远程仓库名称和url
 
 ###git fetch learngit master  将远程仓库中某个分支复制到本地仓库的分支中
+###git merge
 
 git clone https://github.com/13816576524/learngit.git
 git checkout second
