@@ -22,4 +22,4 @@ git restore .
 git restore --staged .
 
 git merge second
-
+git push -u origin master
