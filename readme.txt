@@ -21,5 +21,11 @@ git reset --hard head~1
 git restore .
 git restore --staged .
 
+git checkout second
+git pull
+git checkout master
+git pull
 git merge second
+
+
 git push -u origin master
