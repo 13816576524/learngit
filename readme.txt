@@ -1,4 +1,7 @@
-test
+master
+###远程操作
+git clone https://github.com/13816576524/learngit.git
+
 git clone https://github.com/13816576524/learngit.git
 git checkout second
 git pull
