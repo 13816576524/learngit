@@ -17,6 +17,7 @@ git clone https://github.com/13816576524/learngit.git
 
 ###git pull leanrgit master   将远程仓库分支拉到本地仓库分支，并把本地仓库分支的内容拉到本地工作区。
 
+###git push learngit master	将本地仓库分支推送到远程仓库分支
 
 git clone https://github.com/13816576524/learngit.git
 git checkout second
