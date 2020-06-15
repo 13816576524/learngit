@@ -12,6 +12,9 @@ git clone https://github.com/13816576524/learngit.git
 ###git fetch learngit master  将远程仓库中某个分支复制到本地仓库的分支中
 ###git merge  将本地仓库中文件来刷新本地工作区中文件
 
+###git branch	查看分支
+###git branch -a	查看所有分支的详情
+
 git clone https://github.com/13816576524/learngit.git
 git checkout second
 git pull
