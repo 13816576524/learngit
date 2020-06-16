@@ -50,8 +50,8 @@ git config --global alias.checkin '!f(){ git add -A && git commit -m "$@" && git
 git reset --hard head~1
 
 
-git restore .
-git restore --staged .
+git restore .		撤销工作区的修改
+git restore --staged .		撤销暂存区的修改
 
 git checkout second
 git pull
