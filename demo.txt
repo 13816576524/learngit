@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 master demo
-=======
-senventh demo new
->>>>>>> seventh
-14：06
+14:06
