@@ -1,4 +1,4 @@
-master
+seventh
 ###远程操作
 ###git clone 在本地复制远程仓库
 git clone https://github.com/13816576524/learngit.git
