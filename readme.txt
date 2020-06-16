@@ -30,6 +30,8 @@ git clone https://github.com/13816576524/learngit.git
 
 #git rm readme.txt		删除文件
 
+#git merge seventh		与当前分支合并某个分支
+
 git clone https://github.com/13816576524/learngit.git
 git checkout second
 git pull
