@@ -28,6 +28,8 @@ git clone https://github.com/13816576524/learngit.git
 ###git push -f		强制推送
 
 
+
+
 git clone https://github.com/13816576524/learngit.git
 git checkout second
 git pull
