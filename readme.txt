@@ -19,6 +19,15 @@ git clone https://github.com/13816576524/learngit.git
 
 ###git push learngit master	将本地仓库分支推送到远程仓库分支
 
+###git log		查看提交日志
+###git reflog	查看操作日志
+
+###git reset --hard head~1	退回上一个版本
+###git reset --hard 4e56	退回到指定版本
+
+###git push -f		强制推送
+
+
 git clone https://github.com/13816576524/learngit.git
 git checkout second
 git pull
